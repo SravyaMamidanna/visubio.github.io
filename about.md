@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/index.html
-title: - About Us -
+title: About Us
 tags: [Hossain, Mohd, Faysal, hmfaysal]
 imagefeature: fourseasons.jpg
 chart: true
