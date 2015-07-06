@@ -7,7 +7,7 @@ imagefeature: fourseasons.jpg
 chart: true
 ---
 <figure>
-  <img src="{{ site.url }}/images/about.jpg" alt="VISU FARMS">
+  <img src="{{ site.url }}/images/about-us.jpg" alt="VISU FARMS">
   <figcaption>VISU FARMS</figcaption>
 </figure>
 
