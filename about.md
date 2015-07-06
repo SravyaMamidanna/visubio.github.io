@@ -7,8 +7,8 @@ imagefeature: fourseasons.jpg
 chart: true
 ---
 <figure>
-  <img src="{{ site.url }}/images/hossain-faysal.jpg" alt="Hossain Mohammad Faysal">
-  <figcaption>Hossain Mohammad Faysal</figcaption>
+  <img src="{{ site.url }}/images/about.jpg" alt="VISU FARMS">
+  <figcaption>VISU FARMS</figcaption>
 </figure>
 
 {% assign total_words = 0 %}
