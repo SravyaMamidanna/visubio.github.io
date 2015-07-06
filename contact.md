@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /contact/index.html
-title: - Contact Us -
+title: Contact Us
 tags: [Hossain, Mohd, Faysal, hmfaysal]
 imagefeature: fourseasons.jpg
 chart: true
