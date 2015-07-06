@@ -1,4 +1,4 @@
-title:            VISU BIO
+title:            VISU FARMS
 description:      The Fodder Hub!
 logo:             logo.png
 disqus_shortname: pranavM
@@ -44,6 +44,8 @@ links:
     url: /categories
   - title: About
     url: /about
+  -title: Contact Us
+    url: /contact
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Dhaka
