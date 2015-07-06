@@ -12,18 +12,15 @@ baseurl: /
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
-  avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  name:           Praneeth Aitharaju
+  #avatar:         hmfaysal.jpg
+  #email:          hmfaysal@alum.mit.edu
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  #description:    Awesome Dude, Awesome Life
   # Social networking links used in footer. Update and remove as you like.
   twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal      
-  instagram:      hmfaysal
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  facebook:       praneeth.aitharaju
+  github:         visubio      
 
 ## Analytics and webmaster tools stuff goes here
 #google_analytics:   UA-39365944-7
