@@ -6,10 +6,6 @@ tags: [Hossain, Mohd, Faysal, hmfaysal]
 imagefeature: fourseasons.jpg
 chart: true
 ---
-<figure>
-  <img src="{{ site.url }}/images/kiki-bouba.png" alt="Hossain Mohammad Faysal">
-  <figcaption>Hossain Mohammad Faysal</figcaption>
-</figure>
 
 {% assign total_words = 0 %}
 {% assign total_readtime = 0 %}
